@@ -31,7 +31,6 @@ public class Cart {
     public float totalCost () {
         float cost = 0;
         for (int i = 0;i < qtyOrdered; i++){
-            System.out.println(itemsOrdered[i].getTitle());
             cost += itemsOrdered[i].getCost();
         }
         return cost;
