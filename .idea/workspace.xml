@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92c0f32c-1abe-4969-840c-b46e2bab06ef" name="Changes" comment="refactor code">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OOLT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/week1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/out/production/AimsProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/out/production/AimsProject/main/Aims.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/out/production/AimsProject/main/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/out/production/AimsProject/main/DigitalVideoDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/main/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/main/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AimsProject/src/main/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/ChoosingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/DisplayDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/Equation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/InputFromKeyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/out/production/Lab01/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/6.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/ChoosingOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/DisplayDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/Equation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/InputFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OtherProjects/src/week1.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrZIzntEOjbWHaP5B010KjZ4Qu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Desktop/OOLT"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Desktop\OOLT" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92c0f32c-1abe-4969-840c-b46e2bab06ef" name="Changes" comment="" />
+      <created>1669045086294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669045086294</updated>
+    </task>
+    <task id="LOCAL-00001" summary="refactor code">
+      <created>1669045619873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669045619873</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactor code">
+      <created>1669045852922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669045852922</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="refactor/apply-release-flow" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor code" />
+  </component>
+</project>

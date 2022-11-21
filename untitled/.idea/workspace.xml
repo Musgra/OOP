@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c09c26c0-e544-435e-9e0f-64d6bfd29a9a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/OOLT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/week1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/out/production/AimsProject/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/out/production/AimsProject/main/Aims.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/out/production/AimsProject/main/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/out/production/AimsProject/main/DigitalVideoDisc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/main/Aims.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/main/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/src/main/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OtherProjects/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/ChoosingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/DisplayDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/Equation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/InputFromKeyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/out/production/Lab01/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/6.1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/ChoosingOption.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/DisplayDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/Equation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/InputFromKeyboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OtherProjects/src/week1.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Hrdvz9ooTE9h0NPklWgDtaohye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Admin/OneDrive/Desktop/OOLT/OtherProjects"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c09c26c0-e544-435e-9e0f-64d6bfd29a9a" name="Changes" comment="" />
+      <created>1669047373373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669047373373</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
