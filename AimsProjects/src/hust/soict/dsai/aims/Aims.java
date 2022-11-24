@@ -1,4 +1,7 @@
-package main;
+package hust.soict.dsai.aims;
+
+import hust.soict.dsai.aims.cart.Cart;
+import hust.soict.dsai.aims.disc.DigitalVideoDisc;
 
 public class Aims {
 
@@ -14,5 +17,7 @@ public class Aims {
         System.out.println("Total cost is: ");
         System.out.println(anOrder.totalCost());
         anOrder.removeDigitalVideoDisc(dvd1);
+        anOrder.printCart();
+        anOrder.searchDVDbytitle("Star Wars");
     }
 }
