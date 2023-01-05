@@ -2,50 +2,54 @@ package hust.soict.dsai.aims.media;
 
 import java.util.ArrayList;
 import java.util.List;
-public class Book extends Media {
 
-    private List<String> authors = new ArrayList<String>();
+public class Book extends Media{
+	
+	public List<String> getAuthors() {
+		return authors;
+	}
 
-    public Book(String title) {
-        super(title);
-    }
+	public void setAuthors(List<String> authors) {
+		this.authors = authors;
+	}
 
-//    public Book(String title, String category) {
-//        super(title, category);
-//    }
-//
-//    public Book(String id, String title, String category, float cost, List<String> authors) {
-//        super(title, category, cost, id);
-//        this.authors = authors;
-//    }
+	public List<String> authors = new ArrayList<String>();
+	
+	public Book(String title, String category, float cost, List<String> authors) {
+		super();
+		this.setId(getCurrentId());
+		this.setTitle(title);
+		this.setCategory(category);
+		this.setCost(cost);
+		this.authors = authors;
+	}
 
-//    public Book(Book book) {
-//        super(book.getTitle(), book.getCategory(), book.getCost(), book.getId());
-//        this.authors = book.getAuthors();
-//    }
-    public List<String> getAuthors() {
-        return authors;
-    }
+	public Book() {
+		super();
+	}
+	
+	public void addAuthor(String author) {
+		if(authors.contains(author)) {
+			System.out.println("The author is already in the AuthorsList");
+		}else {
+			authors.add(author);
+		}
+	}
+	
+	public void removeAuthor(String author) {
+		if(authors.contains(author)) {
+			authors.remove(author);
+		}else {
+			System.out.println("The author is not in the AuthorsList");
+		}
+	}
 
-    public void setAuthors(List<String> authors) {
-        this.authors = authors;
-    }
-
-    public void addAuthors(String authorName) {
-        if(authors.contains(authorName)) {
-            System.out.println("Author is already in the list");
-            return ;
-        }
-        System.out.println(authorName +"add");
-        authors.add(authorName);
-        System.out.println("Successfully added new author.");
-    }
-
-    public void removeAuthors(String authorName) {
-        if(!authors.contains(authorName)) {
-            System.out.println("Author is not in the list.");
-            return;
-        }
-        authors.remove(authorName);
-    }
+	@Override
+	public String toString() {
+		return "Book [" + this.getTitle() 
+		+ "] - [" + this.getCategory() 
+		+ "] - [" + this.getCost() 
+		+ "$] - ["+ authors + "]";
+	}
+	
 }

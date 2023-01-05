@@ -1,34 +1,42 @@
 package hust.soict.dsai.aims.store;
-
-import hust.soict.dsai.aims.media.Media;
-
 import java.util.ArrayList;
 
+import hust.soict.dsai.aims.media.Book;
+import hust.soict.dsai.aims.media.DigitalVideoDisc;
+import hust.soict.dsai.aims.media.Media;
 
 public class Store {
-    private ArrayList<Media> itemsInStore = new ArrayList<>();
-    public Media searchMedia(String title){
-        for(int i = 0;i < itemsInStore.size();i++){
-            if(itemsInStore.get(i).getTitle().equals(title)){
-                System.out.println(itemsInStore.get(i));
-                return itemsInStore.get(i);
-            }
-        }
-        return null;
-    }
-
-    public void addMedia(Media media){
-        itemsInStore.add(media);
-    }
-    public void removeMedia(Media media){
-        itemsInStore.remove(media);
-    }
-
-
-    public void print() {
-        for (Media dvd : itemsInStore) {
-            System.out.println(dvd);
-        }
-
-    }
+	public ArrayList<Media> itemsInStore = 
+			new ArrayList<Media>();
+	public ArrayList<Media> getItemsInStore() {
+		return itemsInStore;
+	}
+	public void addMedia(Media inputMedia) {
+		if(itemsInStore.contains(inputMedia)) {
+			System.out.println("This item is already in the Store");
+			return;
+		}
+		itemsInStore.add(inputMedia);
+		System.out.println("Item added");
+	}
+	public void removeMedia(Media inputMedia) {
+		if(itemsInStore.contains(inputMedia)) {
+			itemsInStore.remove(inputMedia);
+			return;
+		}
+		System.out.println("This item is not in the Store");
+	}
+	public void print() {
+		for (Media media : itemsInStore) {
+			System.out.println(media);
+		}
+	}
+	public Media find(String inputMedia) {
+		for (Media media : itemsInStore) {
+			if(media.getTitle().equals(inputMedia)) {
+				return media;				
+			}
+		}
+		return null;
+	}
 }
